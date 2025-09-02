@@ -20,7 +20,7 @@ You’ll need to install the following extensions from the VS Code Marketplace:
 * **GitHub Theme**
 * **JetBrains Icon Theme**
 * **Fluent Icons**
-* **Custom CSS and JS Loader** ([GitHub][1])
+* **Custom CSS and JS Loader** 
 
 ## Quick Start Guide
 
@@ -45,13 +45,13 @@ You’ll need to install the following extensions from the VS Code Marketplace:
    ]
    ```
 
-   **Important:** Always back up your current settings before overwriting them. ([GitHub][1])
+   **Important:** Always back up your current settings before overwriting them. 
 
 4. **Enable Custom Styles & Scripts**
-   Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS), search for *“Enable Custom CSS and JS”*, and enable it to apply your changes. ([GitHub][1])
+   Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS), search for *“Enable Custom CSS and JS”*, and enable it to apply your changes. 
 
 5. **Reload as Needed**
-   After edits, open the command palette again and choose *“Reload Custom CSS and JS”* to see updates. ([GitHub][1])
+   After edits, open the command palette again and choose *“Reload Custom CSS and JS”* to see updates. 
 
 ## Project File Structure
 
@@ -72,3 +72,4 @@ vs-code-customization-javascript/
 * **Keep Style Paths Updated**: Ensure the file paths in your `settings.json` precisely match the location of your `style.css` and `script.js`.
 * **Customize with Purpose**: Tweak themes, tweak UI elements, or add functional enhancements—your editor, your rules!
 * **Stay Updated**: After VS Code updates, you may need to re-enable the extension to restore your customizations.
+
